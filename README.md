@@ -1,1 +1,1 @@
-# FinalProject
+# FinalProject - Easy Shopping
