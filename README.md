@@ -7,7 +7,7 @@
 - Overall, the project's outcome turned better than I was expecting it to be because I started coming up with new options and ideas as I was working on it. 
 
 
-## Attached in this repository is the code I wrote and the CSV file of the item list. 
+### Attached in this repository is the code I wrote and the CSV file of the item list. 
 
 
 Link to the video: https://youtu.be/nGBGqp5axO8  
